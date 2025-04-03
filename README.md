@@ -1,4 +1,4 @@
-# College Management System
+# University Management System
 
 ## Overview
 This is a Python-based College Management System that allows users to create colleges, add students and teachers, display their details, and search for students or teachers using their roll numbers.
